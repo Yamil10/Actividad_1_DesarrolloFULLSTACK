@@ -112,12 +112,12 @@ li {
     margin-top: 50px;
 }
 
-.footer a {
+.Pie-de-pagina a {
     color: #60a5fa;
     text-decoration: none;
     margin: 0 10px;
 }
 
-.footer a:hover {
+.Pie-de-pagina a:hover {
     text-decoration: underline;
 }

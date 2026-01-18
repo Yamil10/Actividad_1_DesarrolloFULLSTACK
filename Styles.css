@@ -121,3 +121,22 @@ li {
 .Pie-de-pagina a:hover {
     text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+
+    #Titulo-Principal {
+        font-size: 28px;
+    }
+
+    .card {
+        width: 95%;
+    }
+
+    .servicio img {
+        width: 90%;
+    }
+
+    .formulario {
+        width: 100%;
+    }
+}

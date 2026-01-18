@@ -46,6 +46,9 @@ p {
     font-weight: bold;
     transition: all 0.3s ease;
 }
+.contenedor-boton {
+    text-align: center;
+}
 
 .boton:hover {
     background-color: #2563eb;
